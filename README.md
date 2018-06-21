@@ -13,6 +13,13 @@ $ choco install mingw -y
 ## Compile/Run
 
 ```
-$ g++ -std=c++11 -g hello.cpp -o hello.exe
+$ g++ -std=c++17 -g hello.cpp -o hello.exe
 $ ./hello.exe
 ```
+
+## Some fun references
+ 
+ - http://codeofthedamned.com/index.php/c-auto
+ - https://ds9a.nl/articles/posts/cpp-1/
+ - https://ds9a.nl/articles/posts/cpp-2/
+ - https://tech.io/playgrounds/2205/7-features-of-c17-that-will-simplify-your-code/introduction
